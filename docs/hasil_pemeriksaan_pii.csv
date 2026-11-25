@@ -1,0 +1,4 @@
+aspek,hasil,keterangan
+Data pribadi langsung,Tidak ditemukan,"Tidak ditemukan kolom NIK, KTP, alamat pribadi, telepon, email, atau tanggal lahir."
+Identitas wilayah,Ditemukan,"Kolom nama_provinsi berisi nama wilayah administratif, bukan identitas individu."
+Risiko privasi,Rendah berdasarkan pemeriksaan kolom,Dataset yang diperiksa didominasi data agregat dan statistik.

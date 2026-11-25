@@ -1,0 +1,243 @@
+﻿kode_provinsi,nama_provinsi,tahun,total
+11,Aceh,2018,235333
+12,Sumatera Utara,2018,1006444
+13,Sumatera Barat,2018,378073
+14,Riau,2018,393250
+15,Jambi,2018,187161
+16,Sumatera Selatan,2018,491310
+17,Bengkulu,2018,99090
+18,Lampung,2018,536535
+19,Kepulauan Bangka Belitung,2018,84975
+21,Kepulauan Riau,2018,166845
+31,DKI Jakarta,2018,1343272
+32,Jawa Barat,2018,4115450
+33,Jawa Tengah,2018,2493541
+34,DI Yogyakarta,2018,400541
+35,Jawa Timur,2018,2911258
+36,Banten,2018,905147
+51,Bali,2018,615089
+52,Nusa Tenggara Barat,2018,316816
+53,Nusa Tenggara Timur,2018,190117
+61,Kalimantan Barat,2018,269694
+62,Kalimantan Tengah,2018,163920
+63,Kalimantan Selatan,2018,318414
+64,Kalimantan Timur,2018,262435
+65,Kalimantan Utara,2018,43206
+71,Sulawesi Utara,2018,194025
+72,Sulawesi Tengah,2018,152613
+73,Sulawesi Selatan,2018,526162
+74,Sulawesi Tenggara,2018,166351
+75,Gorontalo,2018,89577
+76,Sulawesi Barat,2018,58389
+81,Maluku,2018,104117
+82,Maluku Utara,2018,61923
+91,Papua Barat,2018,53348
+94,Papua,2018,123133
+11,Aceh,2019,250189
+12,Sumatera Utara,2019,1062386
+13,Sumatera Barat,2019,386079
+14,Riau,2019,433762
+15,Jambi,2019,197892
+16,Sumatera Selatan,2019,546299
+17,Bengkulu,2019,105850
+18,Lampung,2019,545316
+19,Kepulauan Bangka Belitung,2019,86708
+21,Kepulauan Riau,2019,195349
+31,DKI Jakarta,2019,1467779
+32,Jawa Barat,2019,4585478
+33,Jawa Tengah,2019,2513609
+34,DI Yogyakarta,2019,414689
+35,Jawa Timur,2019,2980689
+36,Banten,2019,1028254
+51,Bali,2019,615695
+52,Nusa Tenggara Barat,2019,349813
+53,Nusa Tenggara Timur,2019,226049
+61,Kalimantan Barat,2019,296789
+62,Kalimantan Tengah,2019,158260
+63,Kalimantan Selatan,2019,332487
+64,Kalimantan Timur,2019,308062
+65,Kalimantan Utara,2019,48165
+71,Sulawesi Utara,2019,194346
+72,Sulawesi Tengah,2019,158892
+73,Sulawesi Selatan,2019,553159
+74,Sulawesi Tenggara,2019,185221
+75,Gorontalo,2019,103523
+76,Sulawesi Barat,2019,66689
+81,Maluku,2019,107159
+82,Maluku Utara,2019,70275
+91,Papua Barat,2019,60399
+94,Papua,2019,125313
+11,Aceh,2020,263796
+12,Sumatera Utara,2020,1016434
+13,Sumatera Barat,2020,407282
+14,Riau,2020,435351
+15,Jambi,2020,201332
+16,Sumatera Selatan,2020,550812
+17,Bengkulu,2020,114319
+18,Lampung,2020,515970
+19,Kepulauan Bangka Belitung,2020,90674
+21,Kepulauan Riau,2020,189707
+31,DKI Jakarta,2020,1429208
+32,Jawa Barat,2020,4355755
+33,Jawa Tengah,2020,2577493
+34,DI Yogyakarta,2020,354897
+35,Jawa Timur,2020,3046344
+36,Banten,2020,1110507
+51,Bali,2020,478638
+52,Nusa Tenggara Barat,2020,390637
+53,Nusa Tenggara Timur,2020,233905
+61,Kalimantan Barat,2020,291748
+62,Kalimantan Tengah,2020,150001
+63,Kalimantan Selatan,2020,304827
+64,Kalimantan Timur,2020,302372
+65,Kalimantan Utara,2020,47139
+71,Sulawesi Utara,2020,183900
+72,Sulawesi Tengah,2020,167040
+73,Sulawesi Selatan,2020,514645
+74,Sulawesi Tenggara,2020,171072
+75,Gorontalo,2020,100825
+76,Sulawesi Barat,2020,60280
+81,Maluku,2020,118922
+82,Maluku Utara,2020,67095
+91,Papua Barat,2020,69280
+94,Papua,2020,122089
+11,Aceh,2021,282834
+12,Sumatera Utara,2021,1083979
+13,Sumatera Barat,2021,415896
+14,Riau,2021,449688
+15,Jambi,2021,213114
+16,Sumatera Selatan,2021,564246
+17,Bengkulu,2021,110012
+18,Lampung,2021,546111
+19,Kepulauan Bangka Belitung,2021,93015
+21,Kepulauan Riau,2021,203858
+31,DKI Jakarta,2021,1376831
+32,Jawa Barat,2021,4611764
+33,Jawa Tengah,2021,2674029
+34,DI Yogyakarta,2021,387213
+35,Jawa Timur,2021,3127571
+36,Banten,2021,1133570
+51,Bali,2021,465053
+52,Nusa Tenggara Barat,2021,422498
+53,Nusa Tenggara Timur,2021,243436
+61,Kalimantan Barat,2021,309496
+62,Kalimantan Tengah,2021,158872
+63,Kalimantan Selatan,2021,314585
+64,Kalimantan Timur,2021,311938
+65,Kalimantan Utara,2021,46690
+71,Sulawesi Utara,2021,200140
+72,Sulawesi Tengah,2021,177681
+73,Sulawesi Selatan,2021,565233
+74,Sulawesi Tenggara,2021,193546
+75,Gorontalo,2021,110641
+76,Sulawesi Barat,2021,64301
+81,Maluku,2021,125903
+82,Maluku Utara,2021,73753
+91,Papua Barat,2021,67609
+94,Papua,2021,130429
+11,Aceh,2022,253327
+12,Sumatera Utara,2022,1118911
+13,Sumatera Barat,2022,463786
+14,Riau,2022,429545
+15,Jambi,2022,209511
+16,Sumatera Selatan,2022,542819
+17,Bengkulu,2022,108221
+18,Lampung,2022,620766
+19,Kepulauan Bangka Belitung,2022,98106
+21,Kepulauan Riau,2022,236159
+31,DKI Jakarta,2022,1479227
+32,Jawa Barat,2022,4978804
+33,Jawa Tengah,2022,2925715
+34,DI Yogyakarta,2022,439029
+35,Jawa Timur,2022,3493968
+36,Banten,2022,1230545
+51,Bali,2022,622432
+52,Nusa Tenggara Barat,2022,428952
+53,Nusa Tenggara Timur,2022,251887
+61,Kalimantan Barat,2022,330017
+62,Kalimantan Tengah,2022,161095
+63,Kalimantan Selatan,2022,319723
+64,Kalimantan Timur,2022,325980
+65,Kalimantan Utara,2022,54899
+71,Sulawesi Utara,2022,208674
+72,Sulawesi Tengah,2022,194953
+73,Sulawesi Selatan,2022,570282
+74,Sulawesi Tenggara,2022,209447
+75,Gorontalo,2022,109939
+76,Sulawesi Barat,2022,73405
+81,Maluku,2022,115963
+82,Maluku Utara,2022,73603
+91,Papua Barat,2022,68376
+94,Papua,2022,146291
+11,Aceh,2023,268175
+12,Sumatera Utara,2023,1248769
+13,Sumatera Barat,2023,493481
+14,Riau,2023,441201
+15,Jambi,2023,228228
+16,Sumatera Selatan,2023,625806
+17,Bengkulu,2023,130343
+18,Lampung,2023,672394
+19,Kepulauan Bangka Belitung,2023,99184
+21,Kepulauan Riau,2023,198295
+31,DKI Jakarta,2023,1537312
+32,Jawa Barat,2023,5200519
+33,Jawa Tengah,2023,3214769
+34,DI Yogyakarta,2023,471212
+35,Jawa Timur,2023,3677429
+36,Banten,2023,1142907
+51,Bali,2023,706935
+52,Nusa Tenggara Barat,2023,430437
+53,Nusa Tenggara Timur,2023,299160
+61,Kalimantan Barat,2023,378666
+62,Kalimantan Tengah,2023,185034
+63,Kalimantan Selatan,2023,338131
+64,Kalimantan Timur,2023,343591
+65,Kalimantan Utara,2023,63573
+71,Sulawesi Utara,2023,243196
+72,Sulawesi Tengah,2023,193408
+73,Sulawesi Selatan,2023,639395
+74,Sulawesi Tenggara,2023,194561
+75,Gorontalo,2023,122818
+76,Sulawesi Barat,2023,78646
+81,Maluku,2023,154713
+82,Maluku Utara,2023,68326
+91,Papua Barat,2023,80438
+94,Papua,2023,237451
+11,Aceh,2024,294230
+12,Sumatera Utara,2024,1255407
+13,Sumatera Barat,2024,483692
+14,Riau,2024,479610
+15,Jambi,2024,242331
+16,Sumatera Selatan,2024,607337
+17,Bengkulu,2024,128588
+18,Lampung,2024,687017
+19,Kepulauan Bangka Belitung,2024,112835
+21,Kepulauan Riau,2024,216616
+31,DKI Jakarta,2024,1521611
+32,Jawa Barat,2024,5433324
+33,Jawa Tengah,2024,3286628
+34,DI Yogyakarta,2024,455412
+35,Jawa Timur,2024,3681720
+36,Banten,2024,1154219
+51,Bali,2024,718049
+52,Nusa Tenggara Barat,2024,438536
+53,Nusa Tenggara Timur,2024,299715
+61,Kalimantan Barat,2024,395627
+62,Kalimantan Tengah,2024,193766
+63,Kalimantan Selatan,2024,362357
+64,Kalimantan Timur,2024,359143
+65,Kalimantan Utara,2024,63959
+71,Sulawesi Utara,2024,246049
+72,Sulawesi Tengah,2024,208628
+73,Sulawesi Selatan,2024,686580
+74,Sulawesi Tenggara,2024,208334
+75,Gorontalo,2024,127605
+76,Sulawesi Barat,2024,92981
+81,Maluku,2024,156147
+82,Maluku Utara,2024,79715
+91,Papua Barat,2024,30531
+92,Papua Barat Daya,2024,49731
+94,Papua,2024,77105
+95,Papua Selatan,2024,30933
+96,Papua Tengah,2024,76537
+97,Papua Pegunungan,2024,68191

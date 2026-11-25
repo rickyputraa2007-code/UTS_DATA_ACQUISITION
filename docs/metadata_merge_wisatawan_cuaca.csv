@@ -1,0 +1,2 @@
+nama_file,sumber_1,sumber_2,metode,kunci_merge,jenis_merge,validasi,jumlah_baris,jumlah_kolom,data_kosong,duplikasi,tanggal_dokumentasi,md5
+wisatawan_cuaca_denpasar_2023.csv,Wisatawan Nusantara Denpasar 2016-2023 (Excel),Open-Meteo Historical Weather API 2023,Merge data berkas dan API,tahun dan bulan,inner,one_to_one,12,5,0,0,2026-11-25,60d079dc382cfa304fccb7bf983f9a9d

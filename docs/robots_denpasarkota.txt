@@ -1,0 +1,779 @@
+# As a condition of accessing this website, you agree to abide by the following
+# content signals:
+
+# (a)  If a Content-Signal = yes, you may collect content for the corresponding
+#      use.
+# (b)  If a Content-Signal = no, you may not collect content for the
+#      corresponding use.
+# (c)  If the website operator does not include a Content-Signal for a
+#      corresponding use, the website operator neither grants nor restricts
+#      permission via Content-Signal with respect to the corresponding use.
+
+# The content signals and their meanings are:
+
+# search:   building a search index and providing search results (e.g., returning
+#           hyperlinks and short excerpts from your website's contents). Search does not
+#           include providing AI-generated search summaries.
+# ai-input: inputting content into one or more AI models (e.g., retrieval
+#           augmented generation, grounding, or other real-time taking of content for
+#           generative AI search answers).
+# ai-train: training or fine-tuning AI models.
+# use:      how AI systems may consume the content (immediate, reference, or full).
+
+# ANY RESTRICTIONS EXPRESSED VIA CONTENT SIGNALS ARE EXPRESS RESERVATIONS OF
+# RIGHTS UNDER ARTICLE 4 OF THE EUROPEAN UNION DIRECTIVE 2019/790 ON COPYRIGHT
+# AND RELATED RIGHTS IN THE DIGITAL SINGLE MARKET.
+
+# BEGIN Cloudflare Managed content
+
+
+User-agent: *
+Content-Signal: search=yes,ai-train=no,use=reference
+Allow: /
+
+# Training crawlers
+User-agent: Amazonbot
+Disallow: /
+
+User-agent: Applebot-Extended
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: Diffbot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: omgili
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: Claude-Web
+Disallow: /
+
+User-agent: cohere-ai
+Disallow: /
+
+User-agent: MistralAI-Training
+Disallow: /
+
+User-agent: meta-externalagent
+Disallow: /
+
+User-agent: GoogleOther
+Disallow: /
+
+User-agent: Baiduspider
+Disallow: /
+
+User-agent: PetalBot
+Disallow: /
+
+User-agent: AwarioSmartBot
+User-agent: AwarioRssBot
+Disallow: /
+
+User-agent: Google-CloudVertexBot
+Disallow: /
+
+User-agent: QualifiedBot
+Disallow: /
+
+User-agent: Cotoyogi
+Disallow: /
+
+User-agent: ICC-Crawler
+Disallow: /
+
+User-agent: atlassian-bot
+Disallow: /
+
+User-agent: FishBot
+Disallow: /
+
+User-agent: BorderxBot
+Disallow: /
+
+User-agent: NavuBot
+Disallow: /
+
+User-agent: SemrushBot-SWA
+Disallow: /
+
+User-agent: WARDBot
+Disallow: /
+
+User-agent: magpie-crawler
+Disallow: /
+
+User-agent: KimiBot
+Disallow: /
+
+User-agent: CitibotSiteCrawler
+Disallow: /
+
+# END Cloudflare Managed Content
+
+
+			<!DOCTYPE html>
+			<html lang="en">
+			<head>
+                <!-- Google tag (gtag.js) -->
+                <script async src='https://www.googletagmanager.com/gtag/js?id=G-6PZV0F5X10'></script>
+                <script>
+                  window.dataLayer = window.dataLayer || [];
+                  function gtag(){dataLayer.push(arguments);}
+                  gtag('js', new Date());
+                
+                  gtag('config', 'G-6PZV0F5X10');
+                </script>
+
+				<title>Beranda - Denpasar Open Data</title>
+				<base href="https://dota.denpasarkota.go.id/"/>
+				
+				<meta charset="utf-8">
+				<meta http-equiv="X-UA-Compatible" content="IE=edge">
+				<meta name="viewport" content="width=device-width, initial-scale=1">
+				
+				<meta name="keywords" content="Denpasar Open Data" />
+				<meta name="description" content="Denpasar Open Data - Denpasar Open Data" />
+				<meta name="author" content="Pemerintah Kota Denpasar" />
+				<meta name="robots" content="index, follow" />
+				<meta name="distribution" content="global" />
+				<meta name="revisit-after" content="2 days" />
+				<meta name="Resource-Type" content="document" />
+				<meta name="copyright" content="Copyright © 2020 - All Rights Reserved - Pemerintah Kota Denpasar" />
+
+				
+				
+				<link rel="stylesheet" href="skins/Standard/main.css" type="text/css" />
+				<link rel="shortcut icon" href="files/image/logo-dps.png">
+				
+				<!-- Bootstrap -->
+				  <link rel="stylesheet" href="skins/constra/plugins/bootstrap/bootstrap.min.css">
+				  <!-- FontAwesome -->
+				  <link rel="stylesheet" href="skins/constra/plugins/fontawesome/css/fontawesome47.min.css">
+				  <!-- Animation -->
+				  <link rel="stylesheet" href="skins/constra/plugins/animate-css/animate.css">
+				  <!-- slick Carousel -->
+				  <link rel="stylesheet" href="skins/constra/plugins/slick/slick.css">
+				  <link rel="stylesheet" href="skins/constra/plugins/slick/slick-theme.css">
+				  <!-- Colorbox -->
+				  <link rel="stylesheet" href="skins/constra/plugins/colorbox/colorbox.css">
+				  <!-- Template styles-->
+				  <link rel="stylesheet" href="skins/constra/css/style.css">
+
+				   <!-- initialize jQuery Library -->
+				  <script src="skins/constra/plugins/jQuery/jquery.min.js"></script>
+				  <!-- Bootstrap jQuery -->
+				  <script src="skins/constra/plugins/bootstrap/bootstrap.min.js" defer></script>
+				  <!-- Slick Carousel -->
+				  <script src="skins/constra/plugins/slick/slick.min.js"></script>
+				  <script src="skins/constra/plugins/slick/slick-animation.min.js"></script>
+				  <!-- Color box -->
+				  <script src="skins/constra/plugins/colorbox/jquery.colorbox.js"></script>
+				  <!-- shuffle -->
+				  <script src="skins/constra/plugins/shuffle/shuffle.min.js" defer></script>
+
+
+				  <!-- Google Map API Key-->
+				  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU" defer></script>
+				  <!-- Google Map Plugin-->
+				  <script src="skins/constra/plugins/google-map/map.js" defer></script>
+
+				  <!-- Template custom -->
+				  <script src="skins/constra/js/script.js"></script>
+				
+                
+                <script>
+                    addEventListener('load', function() {
+                        setTimeout(hideURLbar, 0);
+                    }, false);
+
+                    function hideURLbar() {
+                        window.scrollTo(0, 1);
+                    }
+
+                    function searchData(){					
+                    	var key = document.getElementById('keyword').value;	
+						var urltarget = '?domain=dota.denpasarkota.go.id&page=Data-List-Denpasar&language=id&action=archives&keyword='+key;
+						var query = '';
+						$.ajax({
+							type: 'POST',
+							url:urltarget,
+							data:query,
+							success:function(response){
+								window.open(urltarget,'_parent');
+							} 
+						})
+					}
+
+                </script>
+				
+			</head>
+			<body class="hold-transition skin-blue-light sidebar-mini">	
+				
+				
+												
+
+					
+
+					
+
+					
+
+						
+
+													
+						
+					
+
+					<div class="" id="home">
+						
+				<header id="header" class="header-two">
+				  <div class="site-navigation">
+				    <div class="container">
+				        <div class="row">
+				          <div class="col-lg-12">
+				              <nav class="navbar navbar-expand-lg navbar-light p-0">
+				                
+				                <div class="logo">
+				                    <a class="d-block" href="index.php">
+				                      <img loading="lazy" src="files/image/logo-dota-baru.png" alt="Denpasar Open Data" style="width:200px;height:50px;">
+				                    </a>
+				                </div><!-- logo end -->
+
+				                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbar-collapse" aria-expanded="false" aria-label="Toggle navigation">
+				                    <span class="navbar-toggler-icon"></span>
+				                </button>
+				                
+				                <div id="navbar-collapse" class="collapse navbar-collapse">
+				                    <ul class="nav navbar-nav ml-auto align-items-center">
+				                     <li class="nav-item"><a class="nav-link" href="https://dota.denpasarkota.go.id/id/Homedata" target=""<i class=""> Beranda</a></li><li class="nav-item"><a class="nav-link" href="https://dota.denpasarkota.go.id/id/Instansi" target=""<i class=""> Instansi</a></li><li class="nav-item"><a class="nav-link" href="https://dota.denpasarkota.go.id/id/Infografis-Data" target=""<i class=""> Infografis</a></li><li class="nav-item"><a class="nav-link" href="https://dota.denpasarkota.go.id/id/Integrasi-Data" target=""<i class=""> Integrasi Data</a></li><li class="nav-item"><a class="nav-link" href="https://dota.denpasarkota.go.id/id/Login" target=""<i class=""> Login</a></li>
+				                    </ul>
+				                </div>
+				              </nav>
+				          </div>
+				          <!--/ Col end -->
+				        </div>
+				        <!--/ Row end -->
+				    </div>
+				    <!--/ Container end -->
+
+				  </div>
+				  <!--/ Navigation end -->
+				</header>
+				<!--/ Header end -->
+                        
+		<style>
+					body, html {
+					  height: 100%;
+					  margin: 0;
+					}
+
+					.bg {
+					  /* The image used */
+					  background-image: url(/images/bg-landingpage.png);
+
+					  /* Full height */
+					  height: 100%; 
+
+					  /* Center and scale the image nicely */
+					  background-position: center;
+					  background-repeat: no-repeat;
+					  background-size: cover;
+					}
+					</style>
+		<section id="facts" class="facts-area bg">
+					  <div class="container">
+					    <div class="facts-wrapper">
+					    	 <h2 class="tittle  text-center my-lg-5 my-3" style="color:#fff;font-size:44px;"><span class="sub-tittle" >KOTA DENPASAR DALAM DATA</h2>
+					        <div class="row">
+					          <div class="col-md-4 col-sm-6 ts-facts" style="cursor: pointer;" onclick="window.location='?domain=dota.denpasarkota.go.id&page=Data-List-Denpasar&language=id&action=archives'">
+					              <div class="ts-facts-img">
+					                <img loading="lazy" src="images/icon-image/fact1.png" alt="">
+					              </div>
+					              <div class="ts-facts-content">
+					                <h2 class="ts-facts-num"><span class="counterUp" data-count="3202">3202</span></h2>
+					                <h3 class="ts-facts-title">Data</h3>
+					              </div>
+					          </div><!-- Col end -->
+
+					          <div class="col-md-4 col-sm-6 ts-facts mt-5 mt-sm-0" style="cursor: pointer;" onclick="window.location='?domain=dota.denpasarkota.go.id&page=Data-List-Denpasar&language=id&action=archives&jenis_data=JD01'">
+					              <div class="ts-facts-img">
+					                <img loading="lazy" src="images/icon-image/fact2.png" alt="">
+					              </div>
+					              <div class="ts-facts-content">
+					                <h2 class="ts-facts-num"><span class="counterUp" data-count="110">110</span></h2>
+					                <h3 class="ts-facts-title">Makro</h3>
+					              </div>
+					          </div><!-- Col end -->
+
+					          <div class="col-md-4 col-sm-6 ts-facts mt-5 mt-md-0" style="cursor: pointer;" onclick="window.location='?domain=dota.denpasarkota.go.id&page=Data-List-Denpasar&language=id&action=archives&jenis_data=JD02'">
+					              <div class="ts-facts-img">
+					                <img loading="lazy" src="images/icon-image/fact4.png" alt="">
+					              </div>
+					              <div class="ts-facts-content">
+					                <h2 class="ts-facts-num"><span class="counterUp" data-count="3087">3087</span></h2>
+					                <h3 class="ts-facts-title">Sektoral</h3>
+					              </div>
+					          </div><!-- Col end -->
+
+					        </div> <!-- Facts end -->
+					    </div>
+					    <!--/ Content row end -->
+					  </div>
+					  <!--/ Container end -->
+					</section>
+                        <section class="subscribe no-padding">
+					  <div class="container">
+					    <div class="row">
+					        <div class="col-md-12">
+					          <div class="ts-newsletter row align-items-center">
+					              <div class="col-md-3 newsletter-introtext">
+					                <h4 class="text-white mb-0">Pencarian Data</h4>
+					                <p class="text-white">Cari data dengan kata kunci</p>
+					              </div>
+					              <div class="col-md-8 newsletter-form">
+					                <form action="https://dota.denpasarkota.go.id/index.php?domain=dota.denpasarkota.go.id&page=Data-List-Denpasar&language=id&action=archives" method="post">
+					                    <div class="form-group">
+					                      <label for="newsletter-email" class="content-hidden">Newsletter Email</label>
+					                      <div class="input-group">
+					                      		<input type="text" name="keyword" id="keyword" class="form-control form-control-lg" placeholder="Masukan kata kunci" autocomplete="off" style="background-color : #fff;">
+					                      		<button class="btn btn-primary solid blank" onclick="searchData();" type="button"><i class="fa fa-search" aria-hidden="true"></i></button>
+					                      </div>
+					                      
+					                    </div>
+					                </form>
+					              </div>
+					          </div><!-- Newsletter end -->
+					        </div><!-- Col end -->
+
+					    </div><!-- Content row end -->
+					  </div>
+					  <!--/ Container end -->
+					</section>
+                        
+				<section id="main-container" class="main-container pb-4">
+				  <div class="container">
+				  	<div class="row text-center">
+				      <div class="col-12">
+				        <h3 class="section-sub-title">Kategori</h3>
+				      </div>
+				    </div>
+				    <!--/ Title row end -->
+				    <div class="row">
+				      	
+					<div class="col-lg-2 col-md-6 col-6" style="cursor: pointer;" onclick="window.location='?domain=dota.denpasarkota.go.id&page=Data-List-Denpasar&language=id&action=archives&kategori=K02'">
+				        <div class="ts-pricing-box ts-pricing-featured">
+				          <!--<div class="ts-pricing-header-none" style="background:#28ABE3;">-->
+				          <div class="ts-pricing-header-none" style="background:#7f8c8d;">
+				            <h4 class="ts-pricing-name">Ekonomi</h4>
+				            <h4 class="ts-pricing-price">
+				              <strong><i class="fa fa-credit-card fa-lg" aria-hidden="true"></i></strong>
+				              <small>148 data</small>
+				            </h4>
+				          </div><!-- Pricing header -->
+				        </div><!-- Plan 2 end -->
+				      </div>
+					<div class="col-lg-2 col-md-6 col-6" style="cursor: pointer;" onclick="window.location='?domain=dota.denpasarkota.go.id&page=Data-List-Denpasar&language=id&action=archives&kategori=K05'">
+				        <div class="ts-pricing-box ts-pricing-featured">
+				          <!--<div class="ts-pricing-header-none" style="background:#2abb20;">-->
+				          <div class="ts-pricing-header-none" style="background:#7f8c8d;">
+				            <h4 class="ts-pricing-name">Kependudukan</h4>
+				            <h4 class="ts-pricing-price">
+				              <strong><i class="fa fa-users fa-lg" aria-hidden="true"></i></strong>
+				              <small>211 data</small>
+				            </h4>
+				          </div><!-- Pricing header -->
+				        </div><!-- Plan 2 end -->
+				      </div>
+					<div class="col-lg-2 col-md-6 col-6" style="cursor: pointer;" onclick="window.location='?domain=dota.denpasarkota.go.id&page=Data-List-Denpasar&language=id&action=archives&kategori=1.02'">
+				        <div class="ts-pricing-box ts-pricing-featured">
+				          <!--<div class="ts-pricing-header-none" style="background:#ff2424;">-->
+				          <div class="ts-pricing-header-none" style="background:#7f8c8d;">
+				            <h4 class="ts-pricing-name">Kesehatan</h4>
+				            <h4 class="ts-pricing-price">
+				              <strong><i class="fa fa-user-md fa-lg" aria-hidden="true"></i></strong>
+				              <small>285 data</small>
+				            </h4>
+				          </div><!-- Pricing header -->
+				        </div><!-- Plan 2 end -->
+				      </div>
+					<div class="col-lg-2 col-md-6 col-6" style="cursor: pointer;" onclick="window.location='?domain=dota.denpasarkota.go.id&page=Data-List-Denpasar&language=id&action=archives&kategori=2.11'">
+				        <div class="ts-pricing-box ts-pricing-featured">
+				          <!--<div class="ts-pricing-header-none" style="background:#0ECEAB;">-->
+				          <div class="ts-pricing-header-none" style="background:#7f8c8d;">
+				            <h4 class="ts-pricing-name">Lingkungan Hidup</h4>
+				            <h4 class="ts-pricing-price">
+				              <strong><i class="fa fa-eye fa-lg" aria-hidden="true"></i></strong>
+				              <small>124 data</small>
+				            </h4>
+				          </div><!-- Pricing header -->
+				        </div><!-- Plan 2 end -->
+				      </div>
+					<div class="col-lg-2 col-md-6 col-6" style="cursor: pointer;" onclick="window.location='?domain=dota.denpasarkota.go.id&page=Data-List-Denpasar&language=id&action=archives&kategori=K08'">
+				        <div class="ts-pricing-box ts-pricing-featured">
+				          <!--<div class="ts-pricing-header-none" style="background:#E5690B;">-->
+				          <div class="ts-pricing-header-none" style="background:#7f8c8d;">
+				            <h4 class="ts-pricing-name">Pariwisata Budaya</h4>
+				            <h4 class="ts-pricing-price">
+				              <strong><i class="fa fa-flag fa-lg" aria-hidden="true"></i></strong>
+				              <small>7 data</small>
+				            </h4>
+				          </div><!-- Pricing header -->
+				        </div><!-- Plan 2 end -->
+				      </div>
+					<div class="col-lg-2 col-md-6 col-6" style="cursor: pointer;" onclick="window.location='?domain=dota.denpasarkota.go.id&page=Data-List-Denpasar&language=id&action=archives&kategori=K11'">
+				        <div class="ts-pricing-box ts-pricing-featured">
+				          <!--<div class="ts-pricing-header-none" style="background:#E2007C;">-->
+				          <div class="ts-pricing-header-none" style="background:#7f8c8d;">
+				            <h4 class="ts-pricing-name">Pemerintahan</h4>
+				            <h4 class="ts-pricing-price">
+				              <strong><i class="fa fa-random fa-lg" aria-hidden="true"></i></strong>
+				              <small>388 data</small>
+				            </h4>
+				          </div><!-- Pricing header -->
+				        </div><!-- Plan 2 end -->
+				      </div>
+					<div class="col-lg-2 col-md-6 col-6" style="cursor: pointer;" onclick="window.location='?domain=dota.denpasarkota.go.id&page=Data-List-Denpasar&language=id&action=archives&kategori=K10'">
+				        <div class="ts-pricing-box ts-pricing-featured">
+				          <!--<div class="ts-pricing-header-none" style="background:#ff4b4b;">-->
+				          <div class="ts-pricing-header-none" style="background:#7f8c8d;">
+				            <h4 class="ts-pricing-name">Penanggulangan Bencana</h4>
+				            <h4 class="ts-pricing-price">
+				              <strong><i class="fa fa-random fa-lg" aria-hidden="true"></i></strong>
+				              <small>40 data</small>
+				            </h4>
+				          </div><!-- Pricing header -->
+				        </div><!-- Plan 2 end -->
+				      </div>
+					<div class="col-lg-2 col-md-6 col-6" style="cursor: pointer;" onclick="window.location='?domain=dota.denpasarkota.go.id&page=Data-List-Denpasar&language=id&action=archives&kategori=1.01'">
+				        <div class="ts-pricing-box ts-pricing-featured">
+				          <!--<div class="ts-pricing-header-none" style="background:#0ECEAB;">-->
+				          <div class="ts-pricing-header-none" style="background:#7f8c8d;">
+				            <h4 class="ts-pricing-name">Pendidikan</h4>
+				            <h4 class="ts-pricing-price">
+				              <strong><i class="fa fa-trophy fa-lg" aria-hidden="true"></i></strong>
+				              <small>219 data</small>
+				            </h4>
+				          </div><!-- Pricing header -->
+				        </div><!-- Plan 2 end -->
+				      </div>
+					<div class="col-lg-2 col-md-6 col-6" style="cursor: pointer;" onclick="window.location='?domain=dota.denpasarkota.go.id&page=Data-List-Denpasar&language=id&action=archives&kategori=3.27'">
+				        <div class="ts-pricing-box ts-pricing-featured">
+				          <!--<div class="ts-pricing-header-none" style="background:#E2007C;">-->
+				          <div class="ts-pricing-header-none" style="background:#7f8c8d;">
+				            <h4 class="ts-pricing-name">Pertanian</h4>
+				            <h4 class="ts-pricing-price">
+				              <strong><i class="fa fa-random fa-lg" aria-hidden="true"></i></strong>
+				              <small>93 data</small>
+				            </h4>
+				          </div><!-- Pricing header -->
+				        </div><!-- Plan 2 end -->
+				      </div>
+					<div class="col-lg-2 col-md-6 col-6" style="cursor: pointer;" onclick="window.location='?domain=dota.denpasarkota.go.id&page=Data-List-Denpasar&language=id&action=archives&kategori=1.06'">
+				        <div class="ts-pricing-box ts-pricing-featured">
+				          <!--<div class="ts-pricing-header-none" style="background:#28ABE3;">-->
+				          <div class="ts-pricing-header-none" style="background:#7f8c8d;">
+				            <h4 class="ts-pricing-name">Sosial</h4>
+				            <h4 class="ts-pricing-price">
+				              <strong><i class="fa fa-users fa-lg" aria-hidden="true"></i></strong>
+				              <small>99 data</small>
+				            </h4>
+				          </div><!-- Pricing header -->
+				        </div><!-- Plan 2 end -->
+				      </div>
+					<div class="col-lg-2 col-md-6 col-6" style="cursor: pointer;" onclick="window.location='?domain=dota.denpasarkota.go.id&page=Data-List-Denpasar&language=id&action=archives&kategori=2.07'">
+				        <div class="ts-pricing-box ts-pricing-featured">
+				          <!--<div class="ts-pricing-header-none" style="background:#2abb20;">-->
+				          <div class="ts-pricing-header-none" style="background:#7f8c8d;">
+				            <h4 class="ts-pricing-name">Tenaga Kerja</h4>
+				            <h4 class="ts-pricing-price">
+				              <strong><i class="- fa-lg" aria-hidden="true"></i></strong>
+				              <small>23 data</small>
+				            </h4>
+				          </div><!-- Pricing header -->
+				        </div><!-- Plan 2 end -->
+				      </div>
+					<div class="col-lg-2 col-md-6 col-6" style="cursor: pointer;" onclick="window.location='?domain=dota.denpasarkota.go.id&page=Data-List-Denpasar&language=id&action=archives&kategori=K06'">
+				        <div class="ts-pricing-box ts-pricing-featured">
+				          <!--<div class="ts-pricing-header-none" style="background:#ff2424;">-->
+				          <div class="ts-pricing-header-none" style="background:#7f8c8d;">
+				            <h4 class="ts-pricing-name">Transportasi</h4>
+				            <h4 class="ts-pricing-price">
+				              <strong><i class="fa fa-spinner fa-lg" aria-hidden="true"></i></strong>
+				              <small>18 data</small>
+				            </h4>
+				          </div><!-- Pricing header -->
+				        </div><!-- Plan 2 end -->
+				      </div>
+				    </div><!-- Content row end -->
+
+				  </div><!-- Container end -->
+				</section><!-- Main container end -->
+                        <section id="main-container" class="main-container pb-4">
+				  <div class="container">
+				  	<div class="row text-center">
+				      <div class="col-12">
+				        <h3 class="section-sub-title">Group</h3>
+				      </div>
+				    </div>
+				    <!--/ Title row end -->
+				    <div class="row">
+				      	
+					<div class="col-lg-2 col-md-6 col-6" style="cursor: pointer;" onclick="window.location='?domain=dota.denpasarkota.go.id&page=Data-List-Denpasar&language=id&action=archives&keperluan=KP000007'">
+				        <div class="ts-pricing-box ts-pricing-featured">
+				          <div class="ts-pricing-header">
+				            <h4 class="ts-pricing-price">
+				              <strong><i class="fa fa-users" aria-hidden="true"></i></strong>
+				            </h4>
+				            <h4 class="ts-pricing-name">Denpasar Membangun 2019</h4>
+				            <h5 class="ts-pricing-name">(25 Data)</h5>
+				          </div><!-- Pricing header -->
+				        </div><!-- Plan 2 end -->
+				      </div>
+				
+					<div class="col-lg-2 col-md-6 col-6" style="cursor: pointer;" onclick="window.location='?domain=dota.denpasarkota.go.id&page=Data-List-Denpasar&language=id&action=archives&keperluan=KP000016'">
+				        <div class="ts-pricing-box ts-pricing-featured">
+				          <div class="ts-pricing-header">
+				            <h4 class="ts-pricing-price">
+				              <strong><i class="fa fa-users" aria-hidden="true"></i></strong>
+				            </h4>
+				            <h4 class="ts-pricing-name">Denpasar Membangun 2022</h4>
+				            <h5 class="ts-pricing-name">(20 Data)</h5>
+				          </div><!-- Pricing header -->
+				        </div><!-- Plan 2 end -->
+				      </div>
+				
+					<div class="col-lg-2 col-md-6 col-6" style="cursor: pointer;" onclick="window.location='?domain=dota.denpasarkota.go.id&page=Data-List-Denpasar&language=id&action=archives&keperluan=KP000015'">
+				        <div class="ts-pricing-box ts-pricing-featured">
+				          <div class="ts-pricing-header">
+				            <h4 class="ts-pricing-price">
+				              <strong><i class="fa fa-users" aria-hidden="true"></i></strong>
+				            </h4>
+				            <h4 class="ts-pricing-name">Gender</h4>
+				            <h5 class="ts-pricing-name">(21 Data)</h5>
+				          </div><!-- Pricing header -->
+				        </div><!-- Plan 2 end -->
+				      </div>
+				
+					<div class="col-lg-2 col-md-6 col-6" style="cursor: pointer;" onclick="window.location='?domain=dota.denpasarkota.go.id&page=Data-List-Denpasar&language=id&action=archives&keperluan=KP000018'">
+				        <div class="ts-pricing-box ts-pricing-featured">
+				          <div class="ts-pricing-header">
+				            <h4 class="ts-pricing-price">
+				              <strong><i class="fa fa-users" aria-hidden="true"></i></strong>
+				            </h4>
+				            <h4 class="ts-pricing-name">PUBLIKASI</h4>
+				            <h5 class="ts-pricing-name">(5 Data)</h5>
+				          </div><!-- Pricing header -->
+				        </div><!-- Plan 2 end -->
+				      </div>
+				
+					<div class="col-lg-2 col-md-6 col-6" style="cursor: pointer;" onclick="window.location='?domain=dota.denpasarkota.go.id&page=Data-List-Denpasar&language=id&action=archives&keperluan=KP000017'">
+				        <div class="ts-pricing-box ts-pricing-featured">
+				          <div class="ts-pricing-header">
+				            <h4 class="ts-pricing-price">
+				              <strong><i class="fa fa-users" aria-hidden="true"></i></strong>
+				            </h4>
+				            <h4 class="ts-pricing-name">Publikasi BPS</h4>
+				            <h5 class="ts-pricing-name">(4 Data)</h5>
+				          </div><!-- Pricing header -->
+				        </div><!-- Plan 2 end -->
+				      </div>
+				
+					<div class="col-lg-2 col-md-6 col-6" style="cursor: pointer;" onclick="window.location='?domain=dota.denpasarkota.go.id&page=Data-List-Denpasar&language=id&action=archives&keperluan=KP000005'">
+				        <div class="ts-pricing-box ts-pricing-featured">
+				          <div class="ts-pricing-header">
+				            <h4 class="ts-pricing-price">
+				              <strong><i class="fa fa-users" aria-hidden="true"></i></strong>
+				            </h4>
+				            <h4 class="ts-pricing-name">Smart City</h4>
+				            <h5 class="ts-pricing-name">(21 Data)</h5>
+				          </div><!-- Pricing header -->
+				        </div><!-- Plan 2 end -->
+				      </div>
+				
+				    </div><!-- Content row end -->
+
+				  </div><!-- Container end -->
+				</section><!-- Main container end -->
+                        <footer id="footer" class="footer bg-overlay">
+			    <div class="footer-main">
+			      <div class="container">
+			        <div class="row justify-content-between">
+			          <div class="col-lg-4 col-md-6 footer-widget footer-about">
+			            <h3 class="widget-title">Tentang Kami</h3>
+			            <!--<div class="row">
+			            	<div class="col-sm-6">
+			            		<img loading="lazy" width="200px" class="footer-logo" src="files/image/satudataindonesia.png" alt="Satu Data Indonesia">
+			            	</div>
+			            	<div class="col-sm-6">
+			            		<img loading="lazy" width="200px" class="footer-logo" src="files/image/logo-dota-baru.png" alt="Denpasar Open Data">
+			            	</div>
+			            </div>-->
+			            <img loading="lazy" width="200px" class="footer-logo" src="files/image/satudataindonesia.png" alt="Satu Data Indonesia">
+			            <img loading="lazy" width="200px" class="footer-logo" src="files/image/logo-dota-baru.png" alt="Denpasar Open Data">
+			            
+			            <div class="footer-social">
+			              <ul>
+			               <li><a href="https://www.facebook.com" target="_BLANK" aria-label="Facebook"><i
+			                      class=""></i></a></li><li><a href="http://plus.google.com" target="_blank" aria-label="Google plus"><i
+			                      class=""></i></a></li><li><a href="http://twitter.com" target="_blank" aria-label="Twitter.com"><i
+			                      class=""></i></a></li>
+			              </ul>
+			            </div><!-- Footer social end -->
+			          </div><!-- Col end -->
+
+			          <div class="col-lg-3 col-md-6 mt-5 mt-lg-0 footer-widget">
+			            <h3 class="widget-title">Profil</h3>
+			            <ul class="list-arrow">
+				            <li><a href="id/Satu-Data-Denpasar">Satu Data Denpasar</a></li>
+			            </ul>
+			          </div><!-- Col end -->
+
+			          <div class="col-lg-3 col-md-6 mt-5 mt-lg-0 footer-widget">
+			            <h3 class="widget-title">Link</h3>
+			            <ul class="list-arrow">
+							<li><a href="http://denpasarkota.go.id">Kota Denpasar </a></li>
+				            <li><a href="https://data.go.id/">Satu Data Indonesia</a></li>
+				            <li><a href="https://www.kominfostatistik.denpasarkota.go.id">Dinas Komunikasi, Informatika dan Statistik Kota Denpasar</a></li>
+			            </ul>
+			          </div><!-- Col end -->
+
+			        </div><!-- Row end -->
+			      </div><!-- Container end -->
+			    </div><!-- Footer main end -->
+
+			    <div class="copyright">
+			      <div class="container">
+			        <div class="row align-items-center">
+			          <!--<div class="col-md-6">
+			            <div class="copyright-info text-center text-md-left" style="color: #fff;">
+			              <span>Copyright © 2020 - All Rights Reserved - Pemerintah Kota Denpasar<br />
+							Code & Framework by <a href="http://www.djinggamedia.com" target="_blank" >Djingga Media</a> <br>
+							© Theme By <a href="https://themefisher.com">themefisher.com</a></span>
+			            </div>
+			          </div>-->
+
+			          <div class="col-md-6">
+			            <div class="copyright-info text-center text-md-left" style="color: #fff;">
+			            	<span><b>Walidata Kota Denpasar</b></p><br />
+							Graha Sewaka Dharma Lumintang Lt. III<br />
+							Telepon : 0361 - 431229<br />
+							Email : kominfo@denpasarkota.go.id</span>
+			            </div>
+			          </div>
+			          <div class="col-md-6">
+			            <div class="top-social text-center text-md-right">
+							<ul class="list-unstyled">
+			                    <li>
+			                      <a href="https://www.facebook.com/denpasarkota" target="_blank" style="color:#ffffff;" title="Facebook">
+			                          <span class="social-icon"><i class="fab fa-facebook-f"></i></span>
+			                      </a>
+			                      <a href="https://twitter.com/DenpasarKota" target="_blank" style="color:#ffffff;" data-placement="top" title="Twitter">
+			                          <span class="social-icon"><i class="fab fa-twitter"></i></span>
+			                      </a>
+			                      <a href="https://www.instagram.com/denpasarkota/" target="_blank" style="color:#ffffff;" data-placement="top" title="Instagram">
+			                          <span class="social-icon"><i class="fab fa-instagram"></i></span>
+			                      </a>
+			                      <a href="https://www.youtube.com/user/denpasarkota" target="_blank" style="color:#ffffff;" data-placement="top" title="Youtube">
+			                          <span class="social-icon"><i class="fab fa-youtube"></i></span>
+			                      </a>
+			                    </li>
+			                </ul>
+							<div class="footer-menu text-center text-md-right" style="color: #fff;">
+								<span>&copy; 2026 <a style="color:#ffffff;" href="https://kominfo.denpasarkota.go.id/" target="blank"> Dinas Komunikasi, Informatika dan Statistika Kota Denpasar.</a> All right reserved.<br />
+								Code & Framework Supported by <a style="color:#ffffff;" href="www.djinggamedia.com" target="blank">Djingga Media</a> <br/></span>
+							</div>
+			            </div>
+			          </div>
+
+			          <!--<div class="col-md-6">
+			            <div class="footer-menu text-center text-md-right">
+			              <ul class="list-unstyled">
+			                <li><a href="about.html">About</a></li>
+			                <li><a href="team.html">Our people</a></li>
+			                <li><a href="faq.html">Faq</a></li>
+			                <li><a href="news-left-sidebar.html">Blog</a></li>
+			                <li><a href="pricing.html">Pricing</a></li>
+			              </ul>
+			            </div>
+			          </div>-->
+			        </div><!-- Row end -->
+
+			        <div id="back-to-top" data-spy="affix" data-offset-top="10" class="back-to-top position-fixed">
+			          <button class="btn btn-primary" title="Back to Top">
+			            <i class="fa fa-angle-double-up"></i>
+			          </button>
+			        </div>
+
+			      </div><!-- Container end -->
+			    </div><!-- Copyright end -->
+			  </footer><!-- Footer end -->
+                    </div>
+                    <!-- Modal -->
+				<div class="modal fade" id="ModalForm" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+					<div class="modal-dialog">
+						<div class="modal-content" id="TargetContent">
+							
+						</div>
+					 </div>
+				</div>
+				
+				<!-- Small modal -->
+				<div class="modal fade bs-example-modal-sm" id="ModalFormSmall" tabindex="1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
+				  <div class="modal-dialog modal-sm">
+					<div class="modal-content" id="TargetContentSmall">
+						<div class="modal-body">
+							
+						</div>
+					</div>
+				  </div>
+				</div>
+
+				<!-- Large modal -->
+				<div class="modal fade bs-example-modal-lg" id="ModalFormLarge" tabindex="2" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+				  <div class="modal-dialog modal-lg">
+					<div class="modal-content" id="TargetContentLarge">
+						
+					</div>
+				  </div>
+				</div>
+				
+				<!-- Super Large modal -->
+				<div class="modal fade bs-example-modal-lg" data-backdrop="static" id="ModalFormSuperLarge" data-backdrop="static" tabindex="2" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+				  <div class="modal-dialog modal-lg-xl">
+					<div class="modal-content" id="TargetContentSuperLarge">
+						
+					</div>
+				  </div>
+				</div>
+				
+				
+				<!-- Loading -->
+				<div class="modal fade bs-example-modal-sm" id="ModalLoading" tabindex="2" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+				  <div class="modal-dialog modal-sm">
+					<div class="modal-content" id="TargetLoading">
+						
+					</div>
+				  </div>
+				</div>
+				<!-- </body></html> --!>
+				<script src="https://code.responsivevoice.org/responsivevoice.js?key=Ci7yRH2p"></script>
+			</Body>
+		</html>
